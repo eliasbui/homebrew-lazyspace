@@ -1,6 +1,6 @@
 cask "lazyspace" do
-  version "0.4.5"
-  sha256 "92668993787f2607ab308b930eb6b25fce813e37a467855869949415a4c4820a"
+  version "0.4.6"
+  sha256 "6b6a9099fcf5b558b99e44292df15c9f5c0385749151dfb59f357bc078fdbd04"
 
   url "https://github.com/eliasbui/lazyspace/releases/download/v#{version}/LazySpace-#{version}-macos.zip"
   name "LazySpace"
